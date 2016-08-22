@@ -10,7 +10,7 @@ public class GreetingResource {
 	Greeting greeting;
 	
 	public GreetingResource() {
-		greeting = new Greeting(1, "Hello World!");
+		greeting = new Greeting(1, "Hello Worldddddd!");
 	}
 	
 	@GET
